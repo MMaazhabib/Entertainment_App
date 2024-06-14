@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Entertainment_App/static/css/main.fe3006a7.css",
+    "main.js": "/Entertainment_App/static/js/main.8bd93f38.js",
+    "index.html": "/Entertainment_App/index.html",
+    "main.fe3006a7.css.map": "/Entertainment_App/static/css/main.fe3006a7.css.map",
+    "main.8bd93f38.js.map": "/Entertainment_App/static/js/main.8bd93f38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe3006a7.css",
+    "static/js/main.8bd93f38.js"
+  ]
+}
